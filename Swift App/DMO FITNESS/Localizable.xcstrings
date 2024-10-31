@@ -1,0 +1,631 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%.1f" : {
+
+    },
+    "%.1f kg" : {
+
+    },
+    "About DMO Nutrition Clinics" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حول عيادات تغذية DMO"
+          }
+        }
+      }
+    },
+    "About Us" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " حولنا"
+          }
+        }
+      }
+    },
+    "Action Complete" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم إكمال الإجراء"
+          }
+        }
+      }
+    },
+    "Add" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " إضافة"
+          }
+        }
+      }
+    },
+    "Add new item" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة عنصر جديد"
+          }
+        }
+      }
+    },
+    "Add Points" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضافة نقاط"
+          }
+        }
+      }
+    },
+    "Already have an account?" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل لديك حساب بالفعل؟"
+          }
+        }
+      }
+    },
+    "Assign Diet" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " تعيين نظام غذائي"
+          }
+        }
+      }
+    },
+    "Award Points" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نقاط التكريم"
+          }
+        }
+      }
+    },
+    "Book your first consultation to get started!" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "احجز استشارتك الأولى للبدء!"
+          }
+        }
+      }
+    },
+    "Book your first consultation to start your journey!" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "احجز استشارتك الأولى للبدء في رحلتك!"
+          }
+        }
+      }
+    },
+    "Chats" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " محادثات"
+          }
+        }
+      }
+    },
+    "Client Details" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفاصيل العميل"
+          }
+        }
+      }
+    },
+    "Create an Account!" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أنشئ حسابًا!"
+          }
+        }
+      }
+    },
+    "Create Diet" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إنشاء نظام غذائي"
+          }
+        }
+      }
+    },
+    "Create New Account" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إنشاء حساب جديد"
+          }
+        }
+      }
+    },
+    "Current Weight:" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوزن الحالي:"
+          }
+        }
+      }
+    },
+    "Current Weight: %@" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوزن الحالي: %@"
+          }
+        }
+      }
+    },
+    "Deduct Points" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خصم نقاط"
+          }
+        }
+      }
+    },
+    "Diet added successfully." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم إضافة النظام الغذائي بنجاح."
+          }
+        }
+      }
+    },
+    "Diet assigned successfully." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم تعيين النظام الغذائي بنجاح."
+          }
+        }
+      }
+    },
+    "Diet Name" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسم النظام الغذائي"
+          }
+        }
+      }
+    },
+    "DMO HEALTH CLINIC" : {
+
+    },
+    "DMO nutrition clinics were founded by Dr. Mohamed Omar. With his experience of over 25 years in nutrition weight management, he has helped over 500,000 cases reach their dream bodies and achieve their weight goals. Dr. Mohamed passed his experience and knowledge to his son, Dr. Omar Salem, who now continues the legacy, helping thousands achieve their health and life goals." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تأسست عيادات التغذية دي إم أو من قبل الدكتور محمد عمر. بخبرته التي تزيد عن 25 عامًا في إدارة وزن التغذية، ساعد أكثر من 500,000 حالة على الوصول إلى أجسام أحلامهم وتحقيق أهدافهم الوزنية. نقل الدكتور محمد خبرته ومعرفته إلى ابنه الدكتور عمر سالم، الذي يواصل الآن الإرث، مساعدًا الآلاف على تحقيق أهدافهم الصحية والحياتية.\n\n"
+          }
+        }
+      }
+    },
+    "Do you want to sign out?" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل تريد تسجيل الخروج؟"
+          }
+        }
+      }
+    },
+    "Doctor's Working Hours" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ساعات عمل العيادة"
+          }
+        }
+      }
+    },
+    "Don't have an account?" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ليس لديك حساب؟"
+          }
+        }
+      }
+    },
+    "Edit Working Hours" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعديل ساعات العمل"
+          }
+        }
+      }
+    },
+    "Email" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البريد الإلكتروني"
+          }
+        }
+      }
+    },
+    "End Time" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وقت الانتهاء"
+          }
+        }
+      }
+    },
+    "End: %@" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الانتهاء: %@"
+          }
+        }
+      }
+    },
+    "Enter current weight" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل الوزن الحالي"
+          }
+        }
+      }
+    },
+    "Enter diet name" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل اسم النظام الغذائي"
+          }
+        }
+      }
+    },
+    "Enter new target weight" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل الوزن المستهدف الجديد"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " خطأ"
+          }
+        }
+      }
+    },
+    "Follow us on Instagram:" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تابعونا على إنستغرام:"
+          }
+        }
+      }
+    },
+    "Hello Dr. Omar" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبا يا دكتور"
+          }
+        }
+      }
+    },
+    "Hello, %@ %@!" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبا، %1$@ %2$@!  "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hello, %1$@ %2$@!"
+          }
+        }
+      }
+    },
+    "Milestone Weight (kg)" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوزن المستهدف (كجم)"
+          }
+        }
+      }
+    },
+    "Name: %@" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم: %@"
+          }
+        }
+      }
+    },
+    "No weight recorded yet." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يتم تسجيل وزن بعد."
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حسنًا"
+          }
+        }
+      }
+    },
+    "Okay" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حسنًا"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كلمة المرور"
+          }
+        }
+      }
+    },
+    "Points" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نقاط"
+          }
+        }
+      }
+    },
+    "Points: %lld" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النقاط: %lld"
+          }
+        }
+      }
+    },
+    "Remaining Weight:" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوزن المتبقي:"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ"
+          }
+        }
+      }
+    },
+    "Save Diet" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ النظام الغذائي"
+          }
+        }
+      }
+    },
+    "Save Target Weight" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ الوزن المستهدف"
+          }
+        }
+      }
+    },
+    "Send" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " إرسال"
+          }
+        }
+      }
+    },
+    "Set Milestone" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحديد معلم رئيسي"
+          }
+        }
+      }
+    },
+    "Sign In" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل الدخول"
+          }
+        }
+      }
+    },
+    "Sign Out" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " تسجيل الخروج"
+          }
+        }
+      }
+    },
+    "Start Time" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وقت البدء"
+          }
+        }
+      }
+    },
+    "Start: %@" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البداية: %@"
+          }
+        }
+      }
+    },
+    "Success" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نجاح"
+          }
+        }
+      }
+    },
+    "Target Weight: %@" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوزن المستهدف: %@"
+          }
+        }
+      }
+    },
+    "Type your message" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتب رسالتك"
+          }
+        }
+      }
+    },
+    "Update Weight" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحديث الوزن"
+          }
+        }
+      }
+    },
+    "Working hours updated successfully." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم تحديث ساعات العمل بنجاح."
+          }
+        }
+      }
+    },
+    "Wrong username or password" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسم المستخدم أو كلمة المرور خاطئة"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
